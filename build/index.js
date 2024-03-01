@@ -29,4 +29,5 @@ const editTask = (e) => {
         taskArray[e] = newTask;
         displayTask();
     }
+    ;
 };
